@@ -1,4 +1,4 @@
-// src/Components/ProductCard.jsx
+
 function ProductCard({ image, name, price, description, onBuy }) {
   return (
     <div className="Card">
